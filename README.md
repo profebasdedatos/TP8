@@ -25,4 +25,11 @@ a un estudiante y un libro.
 1. Abrí tu cliente SQL (MySQL Workbench, DBeaver, etc.).
 2. Ejecutá el archivo `modelo.sql`.
 3. Verificá que las tablas se hayan creado correctamente.
+   
 ## ️ Diagrama (opcional)
+![Diagrama ER](diagramas/modelo-ER.png)
+
+---
+
+**Autor**: [Nombre del estudiante o grupo]
+**Año**: 2025
